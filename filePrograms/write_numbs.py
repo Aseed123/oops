@@ -1,0 +1,1 @@
+f=open("C:\Users\aseed\OneDrive\Desktop\PythonJune\filePrograms\numbers.txt" )

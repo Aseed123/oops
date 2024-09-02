@@ -1,0 +1,46 @@
+
+.card-group{
+    width: 80%;
+    min-height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.border{
+    border: 2px solid black;
+    box-shadow: 7px 7px 7px;
+}
+
+.card{
+    width: 30%;
+    min-height: 600px;
+    padding: 10px;
+    background-color: #d6c9c9;
+
+}
+
+.card-image > img{
+width: 100%;
+border-radius: 10px;
+}
+
+.card-body>p{
+    line-height: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-footer>h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey;
+
+}

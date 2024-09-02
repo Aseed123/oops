@@ -1,0 +1,16 @@
+.header{
+    height: 50px;
+    width: 20%;
+    border: 2px solid blueviolet;
+    margin-left: 400px;
+    padding-left: 250px;
+}
+
+.footer{
+    height: 50px;
+    width: 20%;
+    border: 2px solid red;
+    margin-top: 450px;
+    margin-left: 400px;
+    padding-left: 250px;
+}

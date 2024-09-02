@@ -1,0 +1,39 @@
+.border{
+    border: 2px;
+    border-color: black;
+    border-style: solid; 
+}
+
+.first{
+    width: 600px;
+    height: 400px;
+    background-color: aqua;
+}
+
+
+.second{
+    width: 600px;
+    height: 400px;
+    background-color: brown;
+}
+
+.box{
+    width: 100px;
+    height: 70px;
+}
+
+.bg-success{
+    background-color: green;
+}
+
+.bg-warning{
+    background-color: yellow;
+}
+
+.bg-primary{
+    background-color: blue;
+}
+
+.bg-danger{
+    background-color: red;
+}

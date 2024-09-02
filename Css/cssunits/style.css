@@ -1,0 +1,45 @@
+.border{
+    border: 1px solid black;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.parent{
+    width: 50%;
+    height: 500px;
+
+    background-color: rgb(29, 222, 157);
+}
+
+.box1{
+    width: 50%;
+    height: 100px;
+    background-color: rgb(170, 170, 216);
+}
+
+.box2{
+    width: 75%;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+.box3{
+    width: 100vw;
+    height: 100px;
+    background-color: rgb(223, 60, 139);
+}
+
+.box4{
+    width: 50vw;
+    height: 100px;
+    background-color: brown;
+}
+
+.box5{
+    width:40%;
+    height: 100px;
+    background-color: black; 
+}
